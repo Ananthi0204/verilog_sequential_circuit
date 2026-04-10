@@ -7,4 +7,7 @@ This repository contains sequential circuits in Verilog.
 - JK Flip-Flop  
 - T Flip-Flop  
 - SR Flip-Flop  
-- Up Counter  
+- Up Counter
+- Down Counter
+- Mod10 Counter
+- Siso
